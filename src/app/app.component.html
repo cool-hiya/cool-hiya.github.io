@@ -11,11 +11,12 @@
           <h1>FRONTEND BOOTCAMP</h1>
         </mat-toolbar-row>
         <mat-toolbar-row>
-
+          <app-category-select></app-category-select>
         </mat-toolbar-row>
       </mat-toolbar>
 
-      <app-courses-list class="main__courses" [courses]="courses" (courseSelect)="onCourseSelect($event)"></app-courses-list>
+      <app-courses-list class="main__courses" [courses]="courses" (courseSelect)="onCourseSelect($event)">
+      </app-courses-list>
     </mat-sidenav-content>
 
   </mat-sidenav-container>
