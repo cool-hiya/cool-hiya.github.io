@@ -16,5 +16,377 @@
     "category": "html",
     "name": "Forms",
     "source": "forms.md"
+  },
+  {
+    "id": "4",
+    "category": "html",
+    "name": "Tables",
+    "source": "tables.md"
+  },
+  {
+    "id": "5",
+    "category": "html",
+    "name": "Basic tags",
+    "source": "basic-tags.md"
+  },
+  {
+    "id": "6",
+    "category": "html",
+    "name": "Images",
+    "source": "images.md"
+  },
+  {
+    "id": "6",
+    "category": "html",
+    "name": "Links",
+    "source": "links.md"
+  },
+  {
+    "id": "7",
+    "category": "html",
+    "name": "Structure",
+    "source": "structure.md"
+  },
+  {
+    "id": "8",
+    "category": "html",
+    "name": "Video/Audio",
+    "source": "video-audio.md"
+  },
+  {
+    "id": "9",
+    "category": "js",
+    "name": "Functions",
+    "source": "functions.md"
+  },
+  {
+    "id": "10",
+    "category": "js",
+    "name": "Classes",
+    "source": "classes.md"
+  },
+  {
+    "id": "11",
+    "category": "js",
+    "name": "Modules",
+    "source": "modules.md"
+  },
+  {
+    "id": "12",
+    "category": "js",
+    "name": "Asynchrony",
+    "source": "asynchrony.md"
+  },
+  {
+    "id": "13",
+    "category": "js",
+    "name": "Prototypal inheritance",
+    "source": "prototypal-inheritance.md"
+  },
+  {
+    "id": "14",
+    "category": "js",
+    "name": "Error handling",
+    "source": "error-handling.md"
+  },
+  {
+    "id": "15",
+    "category": "js",
+    "name": "Types",
+    "source": "types.md"
+  },
+  {
+    "id": "16",
+    "category": "js",
+    "name": "Variables",
+    "source": "variables.md"
+  },
+  {
+    "id": "17",
+    "category": "js",
+    "name": "Hello world!",
+    "source": "hello-world.md"
+  },
+  {
+    "id": "18",
+    "category": "js",
+    "name": "Operators",
+    "source": "operators.md"
+  },
+  {
+    "id": "19",
+    "category": "js",
+    "name": "Conditions",
+    "source": "conditions.md"
+  },
+  {
+    "id": "20",
+    "category": "css",
+    "name": "Filters & Masks",
+    "source": "filters-masks.md"
+  },
+  {
+    "id": "21",
+    "category": "css",
+    "name": "Animation",
+    "source": "animation.md"
+  },
+  {
+    "id": "22",
+    "category": "css",
+    "name": "Transitions",
+    "source": "transitions.md"
+  },
+  {
+    "id": "23",
+    "category": "css",
+    "name": "Layout",
+    "source": "layout.md"
+  },
+  {
+    "id": "24",
+    "category": "css",
+    "name": "Selectors",
+    "source": "selectors.md"
+  },
+  {
+    "id": "25",
+    "category": "css",
+    "name": "Adaptive & Responsive layout",
+    "source": "adaptive-layout.md"
+  },
+  {
+    "id": "26",
+    "category": "css",
+    "name": "Shadows & Gradients",
+    "source": "shadows-gradients.md"
+  },
+  {
+    "id": "27",
+    "category": "css",
+    "name": "Grid",
+    "source": "grid.md"
+  },
+  {
+    "id": "28",
+    "category": "css",
+    "name": "Background",
+    "source": "background.md"
+  },
+  {
+    "id": "29",
+    "category": "css",
+    "name": "Font metrics",
+    "source": "font-metrics.md"
+  },
+  {
+    "id": "30",
+    "category": "css",
+    "name": "Positioning",
+    "source": "positioning.md"
+  },
+  {
+    "id": "31",
+    "category": "svg",
+    "name": "Basics",
+    "source": "basics.md"
+  },
+  {
+    "id": "32",
+    "category": "css",
+    "name": "Flexbox",
+    "source": "flexbox.md"
+  },
+  {
+    "id": "33",
+    "category": "css",
+    "name": "Tables",
+    "source": "tables.md"
+  },
+  {
+    "id": "34",
+    "category": "css",
+    "name": "BEM",
+    "source": "bem.md"
+  },
+  {
+    "id": "35",
+    "category": "webpack",
+    "name": "Setup",
+    "source": "setup.md"
+  },
+  {
+    "id": "36",
+    "category": "webpack",
+    "name": "Plugins & Loaders",
+    "source": "plugins-loaders.md"
+  },
+  {
+    "id": "37",
+    "category": "webpack",
+    "name": "Optimization",
+    "source": "optimization.md"
+  },
+  {
+    "id": "38",
+    "category": "css-extensions",
+    "name": "SASS Basics",
+    "source": "sass-basics.md"
+  },
+  {
+    "id": "39",
+    "category": "css-extensions",
+    "name": "SASS Library",
+    "source": "sass-library.md"
+  },
+  {
+    "id": "40",
+    "category": "design-tools",
+    "name": "Figma",
+    "source": "figma.md"
+  },
+  {
+    "id": "41",
+    "category": "angular",
+    "name": "Setup",
+    "source": "setup.md"
+  },
+  {
+    "id": "42",
+    "category": "angular",
+    "name": "Components",
+    "source": "components.md"
+  },
+  {
+    "id": "43",
+    "category": "angular",
+    "name": "Data Binding",
+    "source": "data-binding.md"
+  },
+  {
+    "id": "44",
+    "category": "angular",
+    "name": "Directives",
+    "source": "directives.md"
+  },
+  {
+    "id": "45",
+    "category": "angular",
+    "name": "Forms",
+    "source": "forms.md"
+  },
+  {
+    "id": "46",
+    "category": "angular",
+    "name": "Modules",
+    "source": "modules.md"
+  },
+  {
+    "id": "47",
+    "category": "angular",
+    "name": "Routing",
+    "source": "routing.md"
+  },
+  {
+    "id": "48",
+    "category": "angular",
+    "name": "Hooks",
+    "source": "hooks.md"
+  },
+  {
+    "id": "49",
+    "category": "angular",
+    "name": "Pipes",
+    "source": "pipes.md"
+  },
+  {
+    "id": "50",
+    "category": "angular",
+    "name": "Services & DI",
+    "source": "services.md"
+  },
+  {
+    "id": "51",
+    "category": "angular",
+    "name": "Change Detection",
+    "source": "change-detection.md"
+  },
+  {
+    "id": "52",
+    "category": "typescript",
+    "name": "Setup",
+    "source": "setup.md"
+  },
+  {
+    "id": "53",
+    "category": "typescript",
+    "name": "Types",
+    "source": "types.md"
+  },
+  {
+    "id": "54",
+    "category": "package-managers",
+    "name": "NPM",
+    "source": "npm.md"
+  },
+  {
+    "id": "55",
+    "category": "package-managers",
+    "name": "NPM registry",
+    "source": "npm-registry.md"
+  },
+  {
+    "id": "56",
+    "category": "dev-tools",
+    "name": "Chrome DevTools",
+    "source": "chrome-dev-tools.md"
+  },
+  {
+    "id": "57",
+    "category": "git",
+    "name": "Basics",
+    "source": "basics.md"
+  },
+  {
+    "id": "58",
+    "category": "git",
+    "name": "VS Code",
+    "source": "vs-code.md"
+  },
+  {
+    "id": "59",
+    "category": "git",
+    "name": "Commits",
+    "source": "commits.md"
+  },
+  {
+    "id": "60",
+    "category": "git",
+    "name": "Branches",
+    "source": "branches.md"
+  },
+  {
+    "id": "61",
+    "category": "git",
+    "name": "Merging",
+    "source": "merging.md"
+  },
+  {
+    "id": "62",
+    "category": "git",
+    "name": "Repos",
+    "source": "repos.md"
+  },
+  {
+    "id": "63",
+    "category": "git",
+    "name": "Pull Requests",
+    "source": "pull-requests.md"
+  },
+  {
+    "id": "64",
+    "category": "start-kit",
+    "name": "Intro to web development",
+    "source": "intro-to-development.md"
   }
 ]
