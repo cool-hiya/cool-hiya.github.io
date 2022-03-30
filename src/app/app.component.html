@@ -1,12 +1,12 @@
 <ng-container *ngIf="courses$ | async; let courses; else noData">
-  <mat-sidenav-container class="container" [hasBackdrop]="true">
+  <mat-sidenav-container class="main" [hasBackdrop]="true">
 
-    <mat-sidenav #sidenav mode="over" position="end" fixedInViewport="true">
+    <mat-sidenav #sidenav mode="over" position="end" fixedInViewport="true" class="main__sidenav">
       <app-course-details *ngIf="selectedCourse" [course]="selectedCourse"></app-course-details>
     </mat-sidenav>
 
-    <mat-sidenav-content>
-      <mat-toolbar color="secondary">
+    <mat-sidenav-content class="main__content">
+      <mat-toolbar class="main__toolbar">
         <mat-toolbar-row>
           <h1>FRONTEND BOOTCAMP</h1>
         </mat-toolbar-row>
@@ -15,7 +15,7 @@
         </mat-toolbar-row>
       </mat-toolbar>
 
-      <app-courses-list [courses]="courses" (courseSelect)="onCourseSelect($event)"></app-courses-list>
+      <app-courses-list class="main__courses" [courses]="courses" (courseSelect)="onCourseSelect($event)"></app-courses-list>
     </mat-sidenav-content>
 
   </mat-sidenav-container>

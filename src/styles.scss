@@ -1,12 +1,24 @@
-@import "@angular/material/prebuilt-themes/pink-bluegrey";
+@import "@angular/material/prebuilt-themes/indigo-pink";
 
 html {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
 }
 
 html,
 body {
   margin: 0;
   height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+}
+
+a {
+  font-size: inherit;
+  color: inherit;
+  outline: none;
 }
