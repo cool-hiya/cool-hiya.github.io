@@ -10,6 +10,7 @@ import {CourseDetailsComponent} from './components/course-details';
 import {CategorySelectComponent} from './components/category-select';
 import {MaterialModule} from './material.module';
 import {CourseCardComponent} from './components/course-card';
+import {SharedModule} from './shared/shared.module';
 
 @NgModule({
   declarations: [
@@ -22,6 +23,7 @@ import {CourseCardComponent} from './components/course-card';
   imports: [
     CommonModule,
     BrowserModule,
+    SharedModule,
     MaterialModule,
     HttpClientModule,
     BrowserAnimationsModule,

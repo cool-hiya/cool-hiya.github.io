@@ -15,7 +15,7 @@
         </mat-toolbar-row>
       </mat-toolbar>
 
-      <app-courses-list class="main__courses" [courses]="courses" (courseSelect)="onCourseSelect($event)">
+      <app-courses-list class="main__courses" [courses]="courses | filter: filterOptions" (courseSelect)="onCourseSelect($event)">
       </app-courses-list>
     </mat-sidenav-content>
 
