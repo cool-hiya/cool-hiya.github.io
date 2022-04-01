@@ -6,9 +6,7 @@
     </mat-sidenav>
 
     <mat-sidenav-content class="main__content">
-      <header class="main__header">
-        <h1>FRONTEND BOOTCAMP</h1>
-      </header>
+      <app-header class="main__header"></app-header>
 
       <app-courses class="main__courses" [courses]="courses" (courseSelect)="onCourseSelected($event)"></app-courses>
     </mat-sidenav-content>

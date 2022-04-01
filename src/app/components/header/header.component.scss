@@ -1,0 +1,10 @@
+@import "../../../styles/variables";
+
+.header {
+  padding: $base-offset;
+  background-color: $cl-light-gray;
+
+  &__title {
+    margin: 0;
+  }
+}

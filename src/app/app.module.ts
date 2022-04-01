@@ -12,6 +12,7 @@ import {CourseCardComponent} from './components/course-card';
 import {SharedModule} from './shared/shared.module';
 import {CoursesComponent} from './components/courses';
 import {CategoryFilterComponent, CoursesFiltersComponent, LevelFilterComponent} from './components/courses-filters';
+import {HeaderComponent} from './components/header';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import {CategoryFilterComponent, CoursesFiltersComponent, LevelFilterComponent} 
     CoursesComponent,
     CoursesFiltersComponent,
     CategoryFilterComponent,
-    LevelFilterComponent
+    LevelFilterComponent,
+    HeaderComponent
   ],
   imports: [
     CommonModule,
