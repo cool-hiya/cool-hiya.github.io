@@ -6,4 +6,5 @@ export interface Course {
   name: string,
   source: string,
   sortOrder?: number,
+  level: string,
 }
