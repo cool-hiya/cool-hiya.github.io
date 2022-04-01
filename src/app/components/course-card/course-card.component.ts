@@ -8,4 +8,12 @@ import {Course} from "src/app/models";
 })
 export class CourseCardComponent {
   @Input() public course!: Course;
+
+  get levelClassName(): string {
+    if (!this.course?.level) {
+      return '';
+    }
+
+    return `course--${this.course.level.toLowerCase()}`;
+  }
 }

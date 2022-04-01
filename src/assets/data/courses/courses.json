@@ -66,7 +66,7 @@
   {
     "id": "8",
     "category": "html",
-    "name": "Video/Audio",
+    "name": "Video & Audio",
     "source": "video-audio.md",
     "sortOrder": 1500,
     "level": "Middle"
@@ -202,7 +202,7 @@
   {
     "id": "25",
     "category": "css",
-    "name": "Adaptive & Responsive layout",
+    "name": "Adaptive \n&\n Responsive layout",
     "source": "adaptive-layout.md",
     "sortOrder": 3200,
     "level": "Middle"
@@ -210,7 +210,7 @@
   {
     "id": "26",
     "category": "css",
-    "name": "Shadows & Gradients",
+    "name": "Shadows \n&\n Gradients",
     "source": "shadows-gradients.md",
     "sortOrder": 4200,
     "level": "Middle"
