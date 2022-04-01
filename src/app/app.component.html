@@ -9,7 +9,7 @@
       <app-header class="main__header" [view]="selectedView" (viewChange)="onViewChanged($event)"></app-header>
 
       <container-element [ngSwitch]="selectedView">
-        <div *ngSwitchCase="view.TRACK">Track</div>
+        <app-track *ngSwitchCase="view.TRACK" (courseSelect)="onCourseSelected($event)" [courses]="courses"></app-track>
         <app-courses *ngSwitchCase="view.COURSES" class="main__courses" [courses]="courses"
           (courseSelect)="onCourseSelected($event)"></app-courses>
       </container-element>

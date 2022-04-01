@@ -11,6 +11,8 @@ import {CourseCardComponent} from './components/course-card';
 import {SharedModule} from './shared/shared.module';
 import {CategoryFilterComponent, CoursesComponent, CoursesFiltersComponent, CoursesListComponent, LevelFilterComponent} from './components/courses';
 import {HeaderComponent, ViewSwitcherComponent} from './components/header';
+import {TrackComponent} from './components/track';
+import {NgxGraphModule} from '@swimlane/ngx-graph';
 
 @NgModule({
   declarations: [
@@ -23,7 +25,8 @@ import {HeaderComponent, ViewSwitcherComponent} from './components/header';
     CategoryFilterComponent,
     LevelFilterComponent,
     HeaderComponent,
-    ViewSwitcherComponent
+    ViewSwitcherComponent,
+    TrackComponent,
   ],
   imports: [
     CommonModule,
@@ -31,6 +34,7 @@ import {HeaderComponent, ViewSwitcherComponent} from './components/header';
     SharedModule,
     MaterialModule,
     HttpClientModule,
+    NgxGraphModule,
     BrowserAnimationsModule,
     MarkdownModule.forRoot({loader: HttpClient})
   ],
