@@ -1,0 +1,7 @@
+@import "../../../styles/variables";
+
+.courses {
+  &__list {
+    margin-left: $filters-width;
+  }
+}

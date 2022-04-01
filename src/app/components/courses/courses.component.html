@@ -1,3 +1,5 @@
-<app-courses-list class="main__courses" [courses]="courses | filter: filterOptions"
+<app-courses-filters class="courses__filters"></app-courses-filters>
+
+<app-courses-list class="courses__list" [courses]="courses | filter: filterOptions"
   (courseSelect)="onCourseSelect($event)">
 </app-courses-list>

@@ -1,0 +1,17 @@
+@import "../../../styles/variables";
+
+:host {
+  display: block;
+  position: fixed;
+  top: $header-height;
+  left: 0;
+  height: 100vh;
+  width: $filters-width;
+}
+
+.filters {
+  height: 100%;
+  width: 100%;
+  overflow-y: auto;
+  padding: 25px;
+}

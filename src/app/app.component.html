@@ -6,14 +6,9 @@
     </mat-sidenav>
 
     <mat-sidenav-content class="main__content">
-      <mat-toolbar class="main__toolbar">
-        <mat-toolbar-row>
-          <h1>FRONTEND BOOTCAMP</h1>
-        </mat-toolbar-row>
-        <mat-toolbar-row class="main__filters">
-          <app-category-select></app-category-select>
-        </mat-toolbar-row>
-      </mat-toolbar>
+      <header class="main__header">
+        <h1>FRONTEND BOOTCAMP</h1>
+      </header>
 
       <app-courses class="main__courses" [courses]="courses" (courseSelect)="onCourseSelect($event)"></app-courses>
     </mat-sidenav-content>

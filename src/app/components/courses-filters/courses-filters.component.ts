@@ -1,13 +1,13 @@
-import {SelectOption} from './../../shared/components/select';
 import {Component} from "@angular/core";
 import {Category} from "src/app/models";
+import {SelectOption} from "src/app/shared/components/select";
 
 @Component({
-  selector: 'app-category-select',
-  templateUrl: './category-select.component.html',
-  styleUrls: ['./category-select.component.scss']
+  selector: 'app-courses-filters',
+  templateUrl: './courses-filters.component.html',
+  styleUrls: ['./courses-filters.component.scss']
 })
-export class CategorySelectComponent {
+export class CoursesFiltersComponent {
   public categories: SelectOption<string>[] = [];
 
   constructor() {

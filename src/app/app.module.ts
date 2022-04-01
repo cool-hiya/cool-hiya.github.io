@@ -7,20 +7,20 @@ import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
 import {CoursesListComponent} from './components/courses-list';
 import {CommonModule} from '@angular/common';
 import {CourseDetailsComponent} from './components/course-details';
-import {CategorySelectComponent} from './components/category-select';
 import {MaterialModule} from './material.module';
 import {CourseCardComponent} from './components/course-card';
 import {SharedModule} from './shared/shared.module';
 import {CoursesComponent} from './components/courses';
+import {CoursesFiltersComponent} from './components/courses-filters';
 
 @NgModule({
   declarations: [
     AppComponent,
     CoursesListComponent,
     CourseDetailsComponent,
-    CategorySelectComponent,
     CourseCardComponent,
-    CoursesComponent
+    CoursesComponent,
+    CoursesFiltersComponent
   ],
   imports: [
     CommonModule,

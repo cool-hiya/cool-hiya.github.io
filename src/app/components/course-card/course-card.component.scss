@@ -24,14 +24,14 @@
   }
 
   &--junior {
-    background-color: rgba($cl_green, 0.3);
+    background-color: rgba($cl-green, 0.3);
   }
 
   &--middle {
-    background-color: rgba($cl_yellow, 0.3);
+    background-color: rgba($cl-yellow, 0.3);
   }
 
   &--senior {
-    background-color: rgba($cl_red, 0.3);
+    background-color: rgba($cl-red, 0.3);
   }
 }
