@@ -12,7 +12,6 @@ import {MatSidenavContainer} from '@angular/material/sidenav';
 export class AppComponent {
   courses$: Observable<Course[]>;
   selectedCourse!: Course;
-  filterOptions!: Partial<Course>;
 
   @ViewChild('sidenav') sidenav!: MatSidenavContainer;
 

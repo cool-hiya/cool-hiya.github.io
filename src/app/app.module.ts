@@ -11,6 +11,7 @@ import {CategorySelectComponent} from './components/category-select';
 import {MaterialModule} from './material.module';
 import {CourseCardComponent} from './components/course-card';
 import {SharedModule} from './shared/shared.module';
+import {CoursesComponent} from './components/courses';
 
 @NgModule({
   declarations: [
@@ -19,6 +20,7 @@ import {SharedModule} from './shared/shared.module';
     CourseDetailsComponent,
     CategorySelectComponent,
     CourseCardComponent,
+    CoursesComponent
   ],
   imports: [
     CommonModule,
