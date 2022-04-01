@@ -1,5 +1,5 @@
 import {Component} from "@angular/core";
-import {CategoryName} from "src/app/models";
+import {Category} from "src/app/models";
 
 @Component({
   selector: 'app-category-select',
@@ -10,6 +10,6 @@ export class CategorySelectComponent {
   public categories: any[] = [];
 
   constructor() {
-    this.categories = Object.entries(CategoryName).map(([value, label]) => ({value, label}));
+    this.categories = Object.entries(Category).map(([value, label]) => ({value, label}));
   }
 }
