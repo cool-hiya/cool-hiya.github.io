@@ -10,7 +10,7 @@ import {MaterialModule} from './material.module';
 import {CourseCardComponent} from './components/course-card';
 import {SharedModule} from './shared/shared.module';
 import {CategoryFilterComponent, CoursesComponent, CoursesFiltersComponent, CoursesListComponent, LevelFilterComponent} from './components/courses';
-import {HeaderComponent} from './components/header';
+import {HeaderComponent, ViewSwitcherComponent} from './components/header';
 
 @NgModule({
   declarations: [
@@ -22,7 +22,8 @@ import {HeaderComponent} from './components/header';
     CoursesFiltersComponent,
     CategoryFilterComponent,
     LevelFilterComponent,
-    HeaderComponent
+    HeaderComponent,
+    ViewSwitcherComponent
   ],
   imports: [
     CommonModule,

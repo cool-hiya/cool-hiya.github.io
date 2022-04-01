@@ -3,6 +3,7 @@ import {Component, ViewChild} from '@angular/core';
 import {Observable} from 'rxjs';
 import {Course} from './models';
 import {MatSidenavContainer} from '@angular/material/sidenav';
+import {View} from './constants';
 
 @Component({
   selector: 'app-root',
@@ -10,6 +11,9 @@ import {MatSidenavContainer} from '@angular/material/sidenav';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
+  view = View;
+  selectedView: View = View.COURSES;
+
   courses$: Observable<Course[]>;
   selectedCourse!: Course;
 
@@ -22,6 +26,10 @@ export class AppComponent {
   onCourseSelected(course: Course) {
     this.selectCourse(course);
     this.openSideNav();
+  }
+
+  onViewChanged(view: View) {
+    this.selectedView = view;
   }
 
   private selectCourse(course: Course) {

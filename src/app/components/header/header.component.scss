@@ -3,8 +3,15 @@
 .header {
   padding: $base-offset;
   background-color: $cl-light-gray;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 1px 4px 0px rgba($cl-black, 0.5);
 
   &__title {
     margin: 0;
+  }
+
+  &__view-mode {
+    margin-left: 90px;
   }
 }

@@ -1,4 +1,5 @@
-import {Component} from "@angular/core";
+import {Component, EventEmitter, Input, Output} from "@angular/core";
+import {View} from "src/app/constants";
 
 @Component({
   selector: 'app-header',
@@ -6,5 +7,10 @@ import {Component} from "@angular/core";
   styleUrls: ['./header.component.scss']
 })
 export class HeaderComponent {
+  @Input() view!: View;
+  @Output() viewChange: EventEmitter<View> = new EventEmitter();
 
+  onViewChanged(view: View) {
+    this.viewChange.emit(view);
+  }
 }
