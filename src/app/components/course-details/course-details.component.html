@@ -1,2 +1,4 @@
-<mat-spinner *ngIf="isLoading"></mat-spinner>
-<markdown [src]="sourcePath" (load)="onLoad()" (error)="onError()" [hidden]="isLoading"></markdown>
+<div class="course-details">
+  <mat-spinner *ngIf="isLoading" class="course-details__spinner" [diameter]="150" [strokeWidth]="8"></mat-spinner>
+  <markdown [src]="sourcePath" (load)="onLoad()" (error)="onError()" [hidden]="isLoading"></markdown>
+</div>
