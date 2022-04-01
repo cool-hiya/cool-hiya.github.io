@@ -5,7 +5,7 @@
     "name": "Objects",
     "source": "objects.md",
     "sortOrder": 7400,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "2",
@@ -13,7 +13,7 @@
     "name": "Arrays",
     "source": "arrays.md",
     "sortOrder": 7200,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "3",
@@ -21,7 +21,7 @@
     "name": "Forms",
     "source": "forms.md",
     "sortOrder": 1400,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "4",
@@ -29,7 +29,7 @@
     "name": "Tables",
     "source": "tables.md",
     "sortOrder": 1200,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "5",
@@ -37,7 +37,7 @@
     "name": "Basic tags",
     "source": "basic-tags.md",
     "sortOrder": 600,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "6",
@@ -45,7 +45,7 @@
     "name": "Images",
     "source": "images.md",
     "sortOrder": 1000,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "6",
@@ -53,7 +53,7 @@
     "name": "Links",
     "source": "links.md",
     "sortOrder": 800,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "7",
@@ -61,7 +61,7 @@
     "name": "Structure",
     "source": "structure.md",
     "sortOrder": 400,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "8",
@@ -69,7 +69,7 @@
     "name": "Video & Audio",
     "source": "video-audio.md",
     "sortOrder": 1500,
-    "level": "Middle"
+    "level": "middle"
   },
   {
     "id": "9",
@@ -77,7 +77,7 @@
     "name": "Functions",
     "source": "functions.md",
     "sortOrder": 7000,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "10",
@@ -85,7 +85,7 @@
     "name": "Classes",
     "source": "classes.md",
     "sortOrder": 7800,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "11",
@@ -93,7 +93,7 @@
     "name": "Modules",
     "source": "modules.md",
     "sortOrder": 8400,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "12",
@@ -101,7 +101,7 @@
     "name": "Asynchrony",
     "source": "asynchrony.md",
     "sortOrder": 8000,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "13",
@@ -109,7 +109,7 @@
     "name": "Prototypal inheritance",
     "source": "prototypal-inheritance.md",
     "sortOrder": 7600,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "14",
@@ -117,7 +117,7 @@
     "name": "Error handling",
     "source": "error-handling.md",
     "sortOrder": 8200,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "15",
@@ -125,7 +125,7 @@
     "name": "Types",
     "source": "types.md",
     "sortOrder": 6600,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "16",
@@ -133,7 +133,7 @@
     "name": "Variables",
     "source": "variables.md",
     "sortOrder": 6200,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "17",
@@ -141,7 +141,7 @@
     "name": "Hello world!",
     "source": "hello-world.md",
     "sortOrder": 6000,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "18",
@@ -149,7 +149,7 @@
     "name": "Operators",
     "source": "operators.md",
     "sortOrder": 6400,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "19",
@@ -157,7 +157,7 @@
     "name": "Conditions",
     "source": "conditions.md",
     "sortOrder": 6800,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "20",
@@ -165,7 +165,7 @@
     "name": "Filters & Masks",
     "source": "filters-masks.md",
     "sortOrder": 3600,
-    "level": "Middle"
+    "level": "middle"
   },
   {
     "id": "21",
@@ -173,7 +173,7 @@
     "name": "Animation",
     "source": "animation.md",
     "sortOrder": 3800,
-    "level": "Middle"
+    "level": "middle"
   },
   {
     "id": "22",
@@ -181,7 +181,7 @@
     "name": "Transitions",
     "source": "transitions.md",
     "sortOrder": 4000,
-    "level": "Middle"
+    "level": "middle"
   },
   {
     "id": "23",
@@ -189,7 +189,7 @@
     "name": "Layout",
     "source": "layout.md",
     "sortOrder": 2400,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "24",
@@ -197,7 +197,7 @@
     "name": "Selectors",
     "source": "selectors.md",
     "sortOrder": 1600,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "25",
@@ -205,7 +205,7 @@
     "name": "Adaptive \n&\n Responsive layout",
     "source": "adaptive-layout.md",
     "sortOrder": 3200,
-    "level": "Middle"
+    "level": "middle"
   },
   {
     "id": "26",
@@ -213,7 +213,7 @@
     "name": "Shadows \n&\n Gradients",
     "source": "shadows-gradients.md",
     "sortOrder": 4200,
-    "level": "Middle"
+    "level": "middle"
   },
   {
     "id": "27",
@@ -221,7 +221,7 @@
     "name": "Grid",
     "source": "grid.md",
     "sortOrder": 3000,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "28",
@@ -229,7 +229,7 @@
     "name": "Background",
     "source": "background.md",
     "sortOrder": 2000,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "29",
@@ -237,7 +237,7 @@
     "name": "Font metrics",
     "source": "font-metrics.md",
     "sortOrder": 1800,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "30",
@@ -245,7 +245,7 @@
     "name": "Positioning",
     "source": "positioning.md",
     "sortOrder": 2600,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "31",
@@ -253,7 +253,7 @@
     "name": "Basics",
     "source": "basics.md",
     "sortOrder": 4400,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "32",
@@ -261,7 +261,7 @@
     "name": "Flexbox",
     "source": "flexbox.md",
     "sortOrder": 2800,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "33",
@@ -269,7 +269,7 @@
     "name": "Tables",
     "source": "tables.md",
     "sortOrder": 2200,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "34",
@@ -277,7 +277,7 @@
     "name": "BEM",
     "source": "bem.md",
     "sortOrder": 3400,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "35",
@@ -285,7 +285,7 @@
     "name": "Setup",
     "source": "setup.md",
     "sortOrder": 9800,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "36",
@@ -293,7 +293,7 @@
     "name": "Plugins & Loaders",
     "source": "plugins-loaders.md",
     "sortOrder": 10000,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "37",
@@ -301,7 +301,7 @@
     "name": "Optimization",
     "source": "optimization.md",
     "sortOrder": 10200,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "38",
@@ -309,7 +309,7 @@
     "name": "SASS Basics",
     "source": "sass-basics.md",
     "sortOrder": 9000,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "39",
@@ -317,7 +317,7 @@
     "name": "SASS Library",
     "source": "sass-library.md",
     "sortOrder": 9200,
-    "level": "Middle"
+    "level": "middle"
   },
   {
     "id": "40",
@@ -325,7 +325,7 @@
     "name": "Figma",
     "source": "figma.md",
     "sortOrder": 4600,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "41",
@@ -333,7 +333,7 @@
     "name": "Setup",
     "source": "setup.md",
     "sortOrder": 10400,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "42",
@@ -341,7 +341,7 @@
     "name": "Components",
     "source": "components.md",
     "sortOrder": 10600,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "43",
@@ -349,7 +349,7 @@
     "name": "Data Binding",
     "source": "data-binding.md",
     "sortOrder": 10800,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "44",
@@ -357,7 +357,7 @@
     "name": "Directives",
     "source": "directives.md",
     "sortOrder": 11000,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "45",
@@ -365,7 +365,7 @@
     "name": "Forms",
     "source": "forms.md",
     "sortOrder": 12000,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "46",
@@ -373,7 +373,7 @@
     "name": "Modules",
     "source": "modules.md",
     "sortOrder": 11600,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "47",
@@ -381,7 +381,7 @@
     "name": "Routing",
     "source": "routing.md",
     "sortOrder": 12200,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "48",
@@ -389,7 +389,7 @@
     "name": "Hooks",
     "source": "hooks.md",
     "sortOrder": 11400,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "49",
@@ -397,7 +397,7 @@
     "name": "Pipes",
     "source": "pipes.md",
     "sortOrder": 11200,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "50",
@@ -405,7 +405,7 @@
     "name": "Services & DI",
     "source": "services.md",
     "sortOrder": 11800,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "51",
@@ -413,7 +413,7 @@
     "name": "Change Detection",
     "source": "change-detection.md",
     "sortOrder": 12400,
-    "level": "Middle"
+    "level": "middle"
   },
   {
     "id": "52",
@@ -421,7 +421,7 @@
     "name": "Setup",
     "source": "setup.md",
     "sortOrder": 9400,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "53",
@@ -429,7 +429,7 @@
     "name": "Types",
     "source": "types.md",
     "sortOrder": 9600,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "54",
@@ -437,7 +437,7 @@
     "name": "NPM",
     "source": "npm.md",
     "sortOrder": 8600,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "55",
@@ -445,7 +445,7 @@
     "name": "NPM registry",
     "source": "npm-registry.md",
     "sortOrder": 8800,
-    "level": "Middle"
+    "level": "middle"
   },
   {
     "id": "56",
@@ -453,7 +453,7 @@
     "name": "Chrome DevTools",
     "source": "chrome-dev-tools.md",
     "sortOrder": 12600,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "57",
@@ -461,7 +461,7 @@
     "name": "Basics",
     "source": "basics.md",
     "sortOrder": 4800,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "58",
@@ -469,7 +469,7 @@
     "name": "Commits",
     "source": "commits.md",
     "sortOrder": 5000,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "59",
@@ -477,7 +477,7 @@
     "name": "Branches",
     "source": "branches.md",
     "sortOrder": 5200,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "60",
@@ -485,7 +485,7 @@
     "name": "Merging",
     "source": "merging.md",
     "sortOrder": 5400,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "61",
@@ -493,7 +493,7 @@
     "name": "Repos",
     "source": "repos.md",
     "sortOrder": 5600,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "62",
@@ -501,7 +501,7 @@
     "name": "Pull Requests",
     "source": "pull-requests.md",
     "sortOrder": 5800,
-    "level": "Junior"
+    "level": "junior"
   },
   {
     "id": "63",
@@ -509,6 +509,6 @@
     "name": "Intro to web development",
     "source": "intro-to-development.md",
     "sortOrder": 200,
-    "level": "Junior"
+    "level": "junior"
   }
 ]

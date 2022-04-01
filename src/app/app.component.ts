@@ -19,7 +19,7 @@ export class AppComponent {
     this.courses$ = this.coursesService.getCourses();
   }
 
-  onCourseSelect(course: Course) {
+  onCourseSelected(course: Course) {
     this.selectCourse(course);
     this.openSideNav();
   }

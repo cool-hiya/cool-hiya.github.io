@@ -11,7 +11,7 @@ import {MaterialModule} from './material.module';
 import {CourseCardComponent} from './components/course-card';
 import {SharedModule} from './shared/shared.module';
 import {CoursesComponent} from './components/courses';
-import {CoursesFiltersComponent} from './components/courses-filters';
+import {CategoryFilterComponent, CoursesFiltersComponent, LevelFilterComponent} from './components/courses-filters';
 
 @NgModule({
   declarations: [
@@ -20,7 +20,9 @@ import {CoursesFiltersComponent} from './components/courses-filters';
     CourseDetailsComponent,
     CourseCardComponent,
     CoursesComponent,
-    CoursesFiltersComponent
+    CoursesFiltersComponent,
+    CategoryFilterComponent,
+    LevelFilterComponent
   ],
   imports: [
     CommonModule,

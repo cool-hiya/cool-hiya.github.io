@@ -1,4 +1,5 @@
 <div class="filters">
   <p>Filters:</p>
-  <app-select [options]="categories" [label]="'Category'"></app-select>
+  <app-category-filter (filterChange)="onFilterChanged($event, 'category')"></app-category-filter>
+  <app-level-filter (filterChange)="onFilterChanged($event, 'level')"></app-level-filter>
 </div>

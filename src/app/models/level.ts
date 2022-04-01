@@ -1,5 +1,5 @@
 export enum Level {
-  JUNIOR = 'Junior',
-  MIDDLE = 'Middle',
-  SENIOR = 'Senior'
+  JUNIOR = 'junior',
+  MIDDLE = 'middle',
+  SENIOR = 'senior'
 }
