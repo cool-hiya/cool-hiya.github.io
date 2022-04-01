@@ -4,5 +4,6 @@ export interface Course {
   id: string,
   category: Category,
   name: string,
-  source: string
+  source: string,
+  sortOrder?: number,
 }
