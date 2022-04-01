@@ -1,3 +1,4 @@
+import {SelectOption} from './../../shared/components/select';
 import {Component} from "@angular/core";
 import {Category} from "src/app/models";
 
@@ -7,9 +8,9 @@ import {Category} from "src/app/models";
   styleUrls: ['./category-select.component.scss']
 })
 export class CategorySelectComponent {
-  public categories: any[] = [];
+  public categories: SelectOption<string>[] = [];
 
   constructor() {
-    this.categories = Object.entries(Category).map(([value, label]) => ({value, label}));
+    this.categories = Object.values(Category).map((value) => ({value, label: value}));
   }
 }

@@ -12,9 +12,12 @@
     z-index: 1;
   }
 
+  &__filters {
+    display: flex;
+    justify-content: center;
+  }
+
   &__courses {
     padding: 25px;
   }
 }
-
-

@@ -1,10 +1,1 @@
-<div>
-  <span>Category</span>
-  <mat-form-field appearance="outline">
-    <mat-select>
-      <mat-option *ngFor="let category of categories" [value]="category.value">
-        {{category.label}}
-      </mat-option>
-    </mat-select>
-  </mat-form-field>
-</div>
+<app-select [options]="categories" [label]="'Category'"></app-select>

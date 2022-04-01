@@ -3,7 +3,6 @@ import {MatButtonModule} from '@angular/material/button';
 import {MatCardModule} from '@angular/material/card';
 import {MatProgressSpinnerModule} from '@angular/material/progress-spinner';
 import {MatToolbarModule} from '@angular/material/toolbar';
-import {MatSelectModule} from '@angular/material/select';
 import {NgModule} from '@angular/core';
 
 const modules = [
@@ -12,7 +11,6 @@ const modules = [
   MatToolbarModule,
   MatProgressSpinnerModule,
   MatButtonModule,
-  MatSelectModule
 ]
 
 @NgModule({
