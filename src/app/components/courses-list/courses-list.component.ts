@@ -1,7 +1,6 @@
 import {Component, Input, Output, EventEmitter} from "@angular/core";
 import {Course} from "src/app/models";
 
-
 @Component({
   selector: 'app-courses-list',
   templateUrl: './courses-list.component.html',

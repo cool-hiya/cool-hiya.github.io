@@ -1,4 +1,6 @@
 @import "@angular/material/prebuilt-themes/indigo-pink";
+@import "variables";
+@import "font-metrics";
 
 html {
   font-family: "Roboto", sans-serif;
@@ -11,14 +13,4 @@ html,
 body {
   margin: 0;
   height: 100%;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-weight: normal;
-}
-
-a {
-  font-size: inherit;
-  color: inherit;
-  outline: none;
 }

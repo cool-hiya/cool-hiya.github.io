@@ -9,6 +9,7 @@ import {CommonModule} from '@angular/common';
 import {CourseDetailsComponent} from './components/course-details';
 import {CategorySelectComponent} from './components/category-select';
 import {MaterialModule} from './material.module';
+import {CourseCardComponent} from './components/course-card';
 
 @NgModule({
   declarations: [
@@ -16,6 +17,7 @@ import {MaterialModule} from './material.module';
     CoursesListComponent,
     CourseDetailsComponent,
     CategorySelectComponent,
+    CourseCardComponent,
   ],
   imports: [
     CommonModule,

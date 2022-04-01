@@ -1,4 +1,1 @@
-<mat-card *ngFor="let course of courses" (click)="onSelect(course)" class="course">
-  <mat-card-title class="course__title">{{course.name}}</mat-card-title>
-  <div class="course__category">{{course.category}}</div>
-</mat-card>
+<app-course-card *ngFor="let course of courses" (click)="onSelect(course)" [course]="course"></app-course-card>
