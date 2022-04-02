@@ -510,5 +510,13 @@
     "source": "intro-to-development.md",
     "sortOrder": 200,
     "level": "junior"
+  },
+  {
+    "id": "65",
+    "category": "css",
+    "name": "Web fonts",
+    "source": "web-fonts.md",
+    "sortOrder": 3100,
+    "level": "middle"
   }
 ]

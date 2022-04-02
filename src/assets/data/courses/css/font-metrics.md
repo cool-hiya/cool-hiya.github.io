@@ -14,6 +14,6 @@
 10. font-style (normal, italic, oblique)
 11. text-transform (lowercase, uppercase, capitalize, none)
 12. padding, margin
-13. Web fonts
+13. web fonts
 
 ## Sources:
