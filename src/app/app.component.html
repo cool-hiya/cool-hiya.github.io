@@ -1,4 +1,4 @@
-<ng-container *ngIf="data$ | async; let data; else noData">
+<ng-container *ngIf="data$ | async; let data">
   <mat-sidenav-container class="main" [hasBackdrop]="true">
 
     <mat-sidenav #sidenav mode="over" position="end" fixedInViewport="true" class="main__sidenav">
@@ -19,7 +19,3 @@
 
   </mat-sidenav-container>
 </ng-container>
-
-<ng-template #noData>
-  Oops, something went wrong
-</ng-template>
