@@ -3,390 +3,512 @@
     "id": "1",
     "category": "js",
     "name": "Objects",
-    "source": "objects.md"
+    "source": "objects.md",
+    "sortOrder": 7400,
+    "level": "junior"
   },
   {
     "id": "2",
     "category": "js",
     "name": "Arrays",
-    "source": "arrays.md"
+    "source": "arrays.md",
+    "sortOrder": 7200,
+    "level": "junior"
   },
   {
     "id": "3",
     "category": "html",
     "name": "Forms",
-    "source": "forms.md"
+    "source": "forms.md",
+    "sortOrder": 1400,
+    "level": "junior"
   },
   {
     "id": "4",
     "category": "html",
     "name": "Tables",
-    "source": "tables.md"
+    "source": "tables.md",
+    "sortOrder": 1200,
+    "level": "junior"
   },
   {
     "id": "5",
     "category": "html",
     "name": "Basic tags",
-    "source": "basic-tags.md"
+    "source": "basic-tags.md",
+    "sortOrder": 600,
+    "level": "junior"
   },
   {
     "id": "6",
     "category": "html",
     "name": "Images",
-    "source": "images.md"
-  },
-  {
-    "id": "6",
-    "category": "html",
-    "name": "Links",
-    "source": "links.md"
+    "source": "images.md",
+    "sortOrder": 1000,
+    "level": "junior"
   },
   {
     "id": "7",
     "category": "html",
-    "name": "Structure",
-    "source": "structure.md"
+    "name": "Links",
+    "source": "links.md",
+    "sortOrder": 800,
+    "level": "junior"
   },
   {
     "id": "8",
     "category": "html",
-    "name": "Video/Audio",
-    "source": "video-audio.md"
+    "name": "Structure",
+    "source": "structure.md",
+    "sortOrder": 400,
+    "level": "junior"
   },
   {
     "id": "9",
-    "category": "js",
-    "name": "Functions",
-    "source": "functions.md"
+    "category": "html",
+    "name": "Video & Audio",
+    "source": "video-audio.md",
+    "sortOrder": 1500,
+    "level": "middle"
   },
   {
     "id": "10",
     "category": "js",
-    "name": "Classes",
-    "source": "classes.md"
+    "name": "Functions",
+    "source": "functions.md",
+    "sortOrder": 7000,
+    "level": "junior"
   },
   {
     "id": "11",
     "category": "js",
-    "name": "Modules",
-    "source": "modules.md"
+    "name": "Classes",
+    "source": "classes.md",
+    "sortOrder": 7800,
+    "level": "junior"
   },
   {
     "id": "12",
     "category": "js",
-    "name": "Asynchrony",
-    "source": "asynchrony.md"
+    "name": "Modules",
+    "source": "modules.md",
+    "sortOrder": 8400,
+    "level": "junior"
   },
   {
     "id": "13",
     "category": "js",
-    "name": "Prototypal inheritance",
-    "source": "prototypal-inheritance.md"
+    "name": "Asynchrony",
+    "source": "asynchrony.md",
+    "sortOrder": 8000,
+    "level": "junior"
   },
   {
     "id": "14",
     "category": "js",
-    "name": "Error handling",
-    "source": "error-handling.md"
+    "name": "Prototypal inheritance",
+    "source": "prototypal-inheritance.md",
+    "sortOrder": 7600,
+    "level": "junior"
   },
   {
     "id": "15",
     "category": "js",
-    "name": "Types",
-    "source": "types.md"
+    "name": "Error handling",
+    "source": "error-handling.md",
+    "sortOrder": 8200,
+    "level": "junior"
   },
   {
     "id": "16",
     "category": "js",
-    "name": "Variables",
-    "source": "variables.md"
+    "name": "Types",
+    "source": "types.md",
+    "sortOrder": 6600,
+    "level": "junior"
   },
   {
     "id": "17",
     "category": "js",
-    "name": "Hello world!",
-    "source": "hello-world.md"
+    "name": "Variables",
+    "source": "variables.md",
+    "sortOrder": 6200,
+    "level": "junior"
   },
   {
     "id": "18",
     "category": "js",
-    "name": "Operators",
-    "source": "operators.md"
+    "name": "Hello world!",
+    "source": "hello-world.md",
+    "sortOrder": 6000,
+    "level": "junior"
   },
   {
     "id": "19",
     "category": "js",
-    "name": "Conditions",
-    "source": "conditions.md"
+    "name": "Operators",
+    "source": "operators.md",
+    "sortOrder": 6400,
+    "level": "junior"
   },
   {
     "id": "20",
-    "category": "css",
-    "name": "Filters & Masks",
-    "source": "filters-masks.md"
+    "category": "js",
+    "name": "Conditions",
+    "source": "conditions.md",
+    "sortOrder": 6800,
+    "level": "junior"
   },
   {
     "id": "21",
     "category": "css",
-    "name": "Animation",
-    "source": "animation.md"
+    "name": "Filters & Masks",
+    "source": "filters-masks.md",
+    "sortOrder": 3600,
+    "level": "middle"
   },
   {
     "id": "22",
     "category": "css",
-    "name": "Transitions",
-    "source": "transitions.md"
+    "name": "Animation",
+    "source": "animation.md",
+    "sortOrder": 3800,
+    "level": "middle"
   },
   {
     "id": "23",
     "category": "css",
-    "name": "Layout",
-    "source": "layout.md"
+    "name": "Transitions",
+    "source": "transitions.md",
+    "sortOrder": 4000,
+    "level": "middle"
   },
   {
     "id": "24",
     "category": "css",
-    "name": "Selectors",
-    "source": "selectors.md"
+    "name": "Layout",
+    "source": "layout.md",
+    "sortOrder": 2400,
+    "level": "junior"
   },
   {
     "id": "25",
     "category": "css",
-    "name": "Adaptive & Responsive layout",
-    "source": "adaptive-layout.md"
+    "name": "Selectors",
+    "source": "selectors.md",
+    "sortOrder": 1600,
+    "level": "junior"
   },
   {
     "id": "26",
     "category": "css",
-    "name": "Shadows & Gradients",
-    "source": "shadows-gradients.md"
+    "name": "Adaptive \n&\n Responsive layout",
+    "source": "adaptive-layout.md",
+    "sortOrder": 3200,
+    "level": "middle"
   },
   {
     "id": "27",
     "category": "css",
-    "name": "Grid",
-    "source": "grid.md"
+    "name": "Shadows \n&\n Gradients",
+    "source": "shadows-gradients.md",
+    "sortOrder": 4200,
+    "level": "middle"
   },
   {
     "id": "28",
     "category": "css",
-    "name": "Background",
-    "source": "background.md"
+    "name": "Grid",
+    "source": "grid.md",
+    "sortOrder": 3000,
+    "level": "junior"
   },
   {
     "id": "29",
     "category": "css",
-    "name": "Font metrics",
-    "source": "font-metrics.md"
+    "name": "Background",
+    "source": "background.md",
+    "sortOrder": 2000,
+    "level": "junior"
   },
   {
     "id": "30",
     "category": "css",
-    "name": "Positioning",
-    "source": "positioning.md"
+    "name": "Font metrics",
+    "source": "font-metrics.md",
+    "sortOrder": 1800,
+    "level": "junior"
   },
   {
     "id": "31",
-    "category": "svg",
-    "name": "Basics",
-    "source": "basics.md"
+    "category": "css",
+    "name": "Positioning",
+    "source": "positioning.md",
+    "sortOrder": 2600,
+    "level": "junior"
   },
   {
     "id": "32",
-    "category": "css",
-    "name": "Flexbox",
-    "source": "flexbox.md"
+    "category": "svg",
+    "name": "Basics",
+    "source": "basics.md",
+    "sortOrder": 4400,
+    "level": "junior"
   },
   {
     "id": "33",
     "category": "css",
-    "name": "Tables",
-    "source": "tables.md"
+    "name": "Flexbox",
+    "source": "flexbox.md",
+    "sortOrder": 2800,
+    "level": "junior"
   },
   {
     "id": "34",
     "category": "css",
-    "name": "BEM",
-    "source": "bem.md"
+    "name": "Tables",
+    "source": "tables.md",
+    "sortOrder": 2200,
+    "level": "junior"
   },
   {
     "id": "35",
-    "category": "webpack",
-    "name": "Setup",
-    "source": "setup.md"
+    "category": "css",
+    "name": "BEM",
+    "source": "bem.md",
+    "sortOrder": 3400,
+    "level": "junior"
   },
   {
     "id": "36",
     "category": "webpack",
-    "name": "Plugins & Loaders",
-    "source": "plugins-loaders.md"
+    "name": "Setup",
+    "source": "setup.md",
+    "sortOrder": 9800,
+    "level": "junior"
   },
   {
     "id": "37",
     "category": "webpack",
-    "name": "Optimization",
-    "source": "optimization.md"
+    "name": "Plugins & Loaders",
+    "source": "plugins-loaders.md",
+    "sortOrder": 10000,
+    "level": "junior"
   },
   {
     "id": "38",
-    "category": "css-extensions",
-    "name": "SASS Basics",
-    "source": "sass-basics.md"
+    "category": "webpack",
+    "name": "Optimization",
+    "source": "optimization.md",
+    "sortOrder": 10200,
+    "level": "junior"
   },
   {
     "id": "39",
     "category": "css-extensions",
-    "name": "SASS Library",
-    "source": "sass-library.md"
+    "name": "SASS Basics",
+    "source": "sass-basics.md",
+    "sortOrder": 9000,
+    "level": "junior"
   },
   {
     "id": "40",
-    "category": "design-tools",
-    "name": "Figma",
-    "source": "figma.md"
+    "category": "css-extensions",
+    "name": "SASS Library",
+    "source": "sass-library.md",
+    "sortOrder": 9200,
+    "level": "middle"
   },
   {
     "id": "41",
-    "category": "angular",
-    "name": "Setup",
-    "source": "setup.md"
+    "category": "design-tools",
+    "name": "Figma",
+    "source": "figma.md",
+    "sortOrder": 4600,
+    "level": "junior"
   },
   {
     "id": "42",
     "category": "angular",
-    "name": "Components",
-    "source": "components.md"
+    "name": "Setup",
+    "source": "setup.md",
+    "sortOrder": 10400,
+    "level": "junior"
   },
   {
     "id": "43",
     "category": "angular",
-    "name": "Data Binding",
-    "source": "data-binding.md"
+    "name": "Components",
+    "source": "components.md",
+    "sortOrder": 10600,
+    "level": "junior"
   },
   {
     "id": "44",
     "category": "angular",
-    "name": "Directives",
-    "source": "directives.md"
+    "name": "Data Binding",
+    "source": "data-binding.md",
+    "sortOrder": 10800,
+    "level": "junior"
   },
   {
     "id": "45",
     "category": "angular",
-    "name": "Forms",
-    "source": "forms.md"
+    "name": "Directives",
+    "source": "directives.md",
+    "sortOrder": 11000,
+    "level": "junior"
   },
   {
     "id": "46",
     "category": "angular",
-    "name": "Modules",
-    "source": "modules.md"
+    "name": "Forms",
+    "source": "forms.md",
+    "sortOrder": 12000,
+    "level": "junior"
   },
   {
     "id": "47",
     "category": "angular",
-    "name": "Routing",
-    "source": "routing.md"
+    "name": "Modules",
+    "source": "modules.md",
+    "sortOrder": 11600,
+    "level": "junior"
   },
   {
     "id": "48",
     "category": "angular",
-    "name": "Hooks",
-    "source": "hooks.md"
+    "name": "Routing",
+    "source": "routing.md",
+    "sortOrder": 12200,
+    "level": "junior"
   },
   {
     "id": "49",
     "category": "angular",
-    "name": "Pipes",
-    "source": "pipes.md"
+    "name": "Hooks",
+    "source": "hooks.md",
+    "sortOrder": 11400,
+    "level": "junior"
   },
   {
     "id": "50",
     "category": "angular",
-    "name": "Services & DI",
-    "source": "services.md"
+    "name": "Pipes",
+    "source": "pipes.md",
+    "sortOrder": 11200,
+    "level": "junior"
   },
   {
     "id": "51",
     "category": "angular",
-    "name": "Change Detection",
-    "source": "change-detection.md"
+    "name": "Services & DI",
+    "source": "services.md",
+    "sortOrder": 11800,
+    "level": "junior"
   },
   {
     "id": "52",
-    "category": "typescript",
-    "name": "Setup",
-    "source": "setup.md"
+    "category": "angular",
+    "name": "Change Detection",
+    "source": "change-detection.md",
+    "sortOrder": 12400,
+    "level": "middle"
   },
   {
     "id": "53",
     "category": "typescript",
-    "name": "Types",
-    "source": "types.md"
+    "name": "Setup",
+    "source": "setup.md",
+    "sortOrder": 9400,
+    "level": "junior"
   },
   {
     "id": "54",
-    "category": "package-managers",
-    "name": "NPM",
-    "source": "npm.md"
+    "category": "typescript",
+    "name": "Types",
+    "source": "types.md",
+    "sortOrder": 9600,
+    "level": "junior"
   },
   {
     "id": "55",
     "category": "package-managers",
-    "name": "NPM registry",
-    "source": "npm-registry.md"
+    "name": "NPM",
+    "source": "npm.md",
+    "sortOrder": 8600,
+    "level": "junior"
   },
   {
     "id": "56",
-    "category": "dev-tools",
-    "name": "Chrome DevTools",
-    "source": "chrome-dev-tools.md"
+    "category": "package-managers",
+    "name": "NPM registry",
+    "source": "npm-registry.md",
+    "sortOrder": 8800,
+    "level": "middle"
   },
   {
     "id": "57",
-    "category": "git",
-    "name": "Basics",
-    "source": "basics.md"
+    "category": "dev-tools",
+    "name": "Chrome DevTools",
+    "source": "chrome-dev-tools.md",
+    "sortOrder": 12600,
+    "level": "junior"
   },
   {
     "id": "58",
     "category": "git",
-    "name": "VS Code",
-    "source": "vs-code.md"
+    "name": "Basics",
+    "source": "basics.md",
+    "sortOrder": 4800,
+    "level": "junior"
   },
   {
     "id": "59",
     "category": "git",
     "name": "Commits",
-    "source": "commits.md"
+    "source": "commits.md",
+    "sortOrder": 5000,
+    "level": "junior"
   },
   {
     "id": "60",
     "category": "git",
     "name": "Branches",
-    "source": "branches.md"
+    "source": "branches.md",
+    "sortOrder": 5200,
+    "level": "junior"
   },
   {
     "id": "61",
     "category": "git",
     "name": "Merging",
-    "source": "merging.md"
+    "source": "merging.md",
+    "sortOrder": 5400,
+    "level": "junior"
   },
   {
     "id": "62",
     "category": "git",
     "name": "Repos",
-    "source": "repos.md"
+    "source": "repos.md",
+    "sortOrder": 5600,
+    "level": "junior"
   },
   {
     "id": "63",
     "category": "git",
     "name": "Pull Requests",
-    "source": "pull-requests.md"
+    "source": "pull-requests.md",
+    "sortOrder": 5800,
+    "level": "junior"
   },
   {
     "id": "64",
     "category": "start-kit",
     "name": "Intro to web development",
-    "source": "intro-to-development.md"
+    "source": "intro-to-development.md",
+    "sortOrder": 200,
+    "level": "junior"
   }
 ]
