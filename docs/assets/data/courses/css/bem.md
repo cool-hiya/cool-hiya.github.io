@@ -9,3 +9,5 @@
 
 
 ## Sources:
+
+1. [HTML Academy: Why BEM?](https://htmlacademy.ru/blog/boost/frontend/short-5)

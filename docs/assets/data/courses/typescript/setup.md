@@ -8,3 +8,5 @@
 4. tsconfig
 
 ## Sources:
+
+1. [HTML Academy: Why TypeScript?](https://htmlacademy.ru/blog/boost/frontend/typescript)
