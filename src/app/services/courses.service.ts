@@ -13,11 +13,11 @@ export class CoursesService {
 
   constructor(private http: HttpClient) { }
 
-  getCourses(): Observable<Course[]> {
+  getCourses(): Observable<Course[] | null> {
     return this.http.get<Course[]>(`${COURSES_PATH}/courses.json`, {responseType: 'json'})
       .pipe(
         map((courses: Course[]) => sortBy(courses, 'sortOrder')),
-        catchError(() => of([]) as Observable<Course[]>)
+        catchError(() => of(null))
       )
   }
 }

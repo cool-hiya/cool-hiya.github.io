@@ -1,7 +1,9 @@
 @import "../../../styles/variables";
 
 .courses {
+  padding: $base-offset;
+
   &__list {
-    margin-left: calc(#{$filters-width} + #{$base-offset} / 2);
+    margin-left: $filters-width;
   }
 }

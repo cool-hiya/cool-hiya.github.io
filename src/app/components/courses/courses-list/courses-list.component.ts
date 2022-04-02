@@ -10,7 +10,7 @@ export class CoursesListComponent {
   @Input() courses: Course[] = [];
   @Output() courseSelect: EventEmitter<Course> = new EventEmitter();
 
-  onSelect(course: Course) {
+  onSelected(course: Course) {
     this.courseSelect.emit(course);
   }
 }

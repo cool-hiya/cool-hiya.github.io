@@ -48,7 +48,7 @@
     "level": "junior"
   },
   {
-    "id": "6",
+    "id": "7",
     "category": "html",
     "name": "Links",
     "source": "links.md",
@@ -56,7 +56,7 @@
     "level": "junior"
   },
   {
-    "id": "7",
+    "id": "8",
     "category": "html",
     "name": "Structure",
     "source": "structure.md",
@@ -64,7 +64,7 @@
     "level": "junior"
   },
   {
-    "id": "8",
+    "id": "9",
     "category": "html",
     "name": "Video & Audio",
     "source": "video-audio.md",
@@ -72,7 +72,7 @@
     "level": "middle"
   },
   {
-    "id": "9",
+    "id": "10",
     "category": "js",
     "name": "Functions",
     "source": "functions.md",
@@ -80,7 +80,7 @@
     "level": "junior"
   },
   {
-    "id": "10",
+    "id": "11",
     "category": "js",
     "name": "Classes",
     "source": "classes.md",
@@ -88,7 +88,7 @@
     "level": "junior"
   },
   {
-    "id": "11",
+    "id": "12",
     "category": "js",
     "name": "Modules",
     "source": "modules.md",
@@ -96,7 +96,7 @@
     "level": "junior"
   },
   {
-    "id": "12",
+    "id": "13",
     "category": "js",
     "name": "Asynchrony",
     "source": "asynchrony.md",
@@ -104,7 +104,7 @@
     "level": "junior"
   },
   {
-    "id": "13",
+    "id": "14",
     "category": "js",
     "name": "Prototypal inheritance",
     "source": "prototypal-inheritance.md",
@@ -112,7 +112,7 @@
     "level": "junior"
   },
   {
-    "id": "14",
+    "id": "15",
     "category": "js",
     "name": "Error handling",
     "source": "error-handling.md",
@@ -120,7 +120,7 @@
     "level": "junior"
   },
   {
-    "id": "15",
+    "id": "16",
     "category": "js",
     "name": "Types",
     "source": "types.md",
@@ -128,7 +128,7 @@
     "level": "junior"
   },
   {
-    "id": "16",
+    "id": "17",
     "category": "js",
     "name": "Variables",
     "source": "variables.md",
@@ -136,7 +136,7 @@
     "level": "junior"
   },
   {
-    "id": "17",
+    "id": "18",
     "category": "js",
     "name": "Hello world!",
     "source": "hello-world.md",
@@ -144,7 +144,7 @@
     "level": "junior"
   },
   {
-    "id": "18",
+    "id": "19",
     "category": "js",
     "name": "Operators",
     "source": "operators.md",
@@ -152,7 +152,7 @@
     "level": "junior"
   },
   {
-    "id": "19",
+    "id": "20",
     "category": "js",
     "name": "Conditions",
     "source": "conditions.md",
@@ -160,7 +160,7 @@
     "level": "junior"
   },
   {
-    "id": "20",
+    "id": "21",
     "category": "css",
     "name": "Filters & Masks",
     "source": "filters-masks.md",
@@ -168,7 +168,7 @@
     "level": "middle"
   },
   {
-    "id": "21",
+    "id": "22",
     "category": "css",
     "name": "Animation",
     "source": "animation.md",
@@ -176,7 +176,7 @@
     "level": "middle"
   },
   {
-    "id": "22",
+    "id": "23",
     "category": "css",
     "name": "Transitions",
     "source": "transitions.md",
@@ -184,7 +184,7 @@
     "level": "middle"
   },
   {
-    "id": "23",
+    "id": "24",
     "category": "css",
     "name": "Layout",
     "source": "layout.md",
@@ -192,7 +192,7 @@
     "level": "junior"
   },
   {
-    "id": "24",
+    "id": "25",
     "category": "css",
     "name": "Selectors",
     "source": "selectors.md",
@@ -200,7 +200,7 @@
     "level": "junior"
   },
   {
-    "id": "25",
+    "id": "26",
     "category": "css",
     "name": "Adaptive \n&\n Responsive layout",
     "source": "adaptive-layout.md",
@@ -208,7 +208,7 @@
     "level": "middle"
   },
   {
-    "id": "26",
+    "id": "27",
     "category": "css",
     "name": "Shadows \n&\n Gradients",
     "source": "shadows-gradients.md",
@@ -216,7 +216,7 @@
     "level": "middle"
   },
   {
-    "id": "27",
+    "id": "28",
     "category": "css",
     "name": "Grid",
     "source": "grid.md",
@@ -224,7 +224,7 @@
     "level": "junior"
   },
   {
-    "id": "28",
+    "id": "29",
     "category": "css",
     "name": "Background",
     "source": "background.md",
@@ -232,7 +232,7 @@
     "level": "junior"
   },
   {
-    "id": "29",
+    "id": "30",
     "category": "css",
     "name": "Font metrics",
     "source": "font-metrics.md",
@@ -240,7 +240,7 @@
     "level": "junior"
   },
   {
-    "id": "30",
+    "id": "31",
     "category": "css",
     "name": "Positioning",
     "source": "positioning.md",
@@ -248,7 +248,7 @@
     "level": "junior"
   },
   {
-    "id": "31",
+    "id": "32",
     "category": "svg",
     "name": "Basics",
     "source": "basics.md",
@@ -256,7 +256,7 @@
     "level": "junior"
   },
   {
-    "id": "32",
+    "id": "33",
     "category": "css",
     "name": "Flexbox",
     "source": "flexbox.md",
@@ -264,7 +264,7 @@
     "level": "junior"
   },
   {
-    "id": "33",
+    "id": "34",
     "category": "css",
     "name": "Tables",
     "source": "tables.md",
@@ -272,7 +272,7 @@
     "level": "junior"
   },
   {
-    "id": "34",
+    "id": "35",
     "category": "css",
     "name": "BEM",
     "source": "bem.md",
@@ -280,7 +280,7 @@
     "level": "junior"
   },
   {
-    "id": "35",
+    "id": "36",
     "category": "webpack",
     "name": "Setup",
     "source": "setup.md",
@@ -288,7 +288,7 @@
     "level": "junior"
   },
   {
-    "id": "36",
+    "id": "37",
     "category": "webpack",
     "name": "Plugins & Loaders",
     "source": "plugins-loaders.md",
@@ -296,7 +296,7 @@
     "level": "junior"
   },
   {
-    "id": "37",
+    "id": "38",
     "category": "webpack",
     "name": "Optimization",
     "source": "optimization.md",
@@ -304,7 +304,7 @@
     "level": "junior"
   },
   {
-    "id": "38",
+    "id": "39",
     "category": "css-extensions",
     "name": "SASS Basics",
     "source": "sass-basics.md",
@@ -312,7 +312,7 @@
     "level": "junior"
   },
   {
-    "id": "39",
+    "id": "40",
     "category": "css-extensions",
     "name": "SASS Library",
     "source": "sass-library.md",
@@ -320,7 +320,7 @@
     "level": "middle"
   },
   {
-    "id": "40",
+    "id": "41",
     "category": "design-tools",
     "name": "Figma",
     "source": "figma.md",
@@ -328,7 +328,7 @@
     "level": "junior"
   },
   {
-    "id": "41",
+    "id": "42",
     "category": "angular",
     "name": "Setup",
     "source": "setup.md",
@@ -336,7 +336,7 @@
     "level": "junior"
   },
   {
-    "id": "42",
+    "id": "43",
     "category": "angular",
     "name": "Components",
     "source": "components.md",
@@ -344,7 +344,7 @@
     "level": "junior"
   },
   {
-    "id": "43",
+    "id": "44",
     "category": "angular",
     "name": "Data Binding",
     "source": "data-binding.md",
@@ -352,7 +352,7 @@
     "level": "junior"
   },
   {
-    "id": "44",
+    "id": "45",
     "category": "angular",
     "name": "Directives",
     "source": "directives.md",
@@ -360,7 +360,7 @@
     "level": "junior"
   },
   {
-    "id": "45",
+    "id": "46",
     "category": "angular",
     "name": "Forms",
     "source": "forms.md",
@@ -368,7 +368,7 @@
     "level": "junior"
   },
   {
-    "id": "46",
+    "id": "47",
     "category": "angular",
     "name": "Modules",
     "source": "modules.md",
@@ -376,7 +376,7 @@
     "level": "junior"
   },
   {
-    "id": "47",
+    "id": "48",
     "category": "angular",
     "name": "Routing",
     "source": "routing.md",
@@ -384,7 +384,7 @@
     "level": "junior"
   },
   {
-    "id": "48",
+    "id": "49",
     "category": "angular",
     "name": "Hooks",
     "source": "hooks.md",
@@ -392,7 +392,7 @@
     "level": "junior"
   },
   {
-    "id": "49",
+    "id": "50",
     "category": "angular",
     "name": "Pipes",
     "source": "pipes.md",
@@ -400,7 +400,7 @@
     "level": "junior"
   },
   {
-    "id": "50",
+    "id": "51",
     "category": "angular",
     "name": "Services & DI",
     "source": "services.md",
@@ -408,7 +408,7 @@
     "level": "junior"
   },
   {
-    "id": "51",
+    "id": "52",
     "category": "angular",
     "name": "Change Detection",
     "source": "change-detection.md",
@@ -416,7 +416,7 @@
     "level": "middle"
   },
   {
-    "id": "52",
+    "id": "53",
     "category": "typescript",
     "name": "Setup",
     "source": "setup.md",
@@ -424,7 +424,7 @@
     "level": "junior"
   },
   {
-    "id": "53",
+    "id": "54",
     "category": "typescript",
     "name": "Types",
     "source": "types.md",
@@ -432,7 +432,7 @@
     "level": "junior"
   },
   {
-    "id": "54",
+    "id": "55",
     "category": "package-managers",
     "name": "NPM",
     "source": "npm.md",
@@ -440,7 +440,7 @@
     "level": "junior"
   },
   {
-    "id": "55",
+    "id": "56",
     "category": "package-managers",
     "name": "NPM registry",
     "source": "npm-registry.md",
@@ -448,7 +448,7 @@
     "level": "middle"
   },
   {
-    "id": "56",
+    "id": "57",
     "category": "dev-tools",
     "name": "Chrome DevTools",
     "source": "chrome-dev-tools.md",
@@ -456,7 +456,7 @@
     "level": "junior"
   },
   {
-    "id": "57",
+    "id": "58",
     "category": "git",
     "name": "Basics",
     "source": "basics.md",
@@ -464,7 +464,7 @@
     "level": "junior"
   },
   {
-    "id": "58",
+    "id": "59",
     "category": "git",
     "name": "Commits",
     "source": "commits.md",
@@ -472,7 +472,7 @@
     "level": "junior"
   },
   {
-    "id": "59",
+    "id": "60",
     "category": "git",
     "name": "Branches",
     "source": "branches.md",
@@ -480,7 +480,7 @@
     "level": "junior"
   },
   {
-    "id": "60",
+    "id": "61",
     "category": "git",
     "name": "Merging",
     "source": "merging.md",
@@ -488,7 +488,7 @@
     "level": "junior"
   },
   {
-    "id": "61",
+    "id": "62",
     "category": "git",
     "name": "Repos",
     "source": "repos.md",
@@ -496,7 +496,7 @@
     "level": "junior"
   },
   {
-    "id": "62",
+    "id": "63",
     "category": "git",
     "name": "Pull Requests",
     "source": "pull-requests.md",
@@ -504,7 +504,7 @@
     "level": "junior"
   },
   {
-    "id": "63",
+    "id": "64",
     "category": "start-kit",
     "name": "Intro to web development",
     "source": "intro-to-development.md",

@@ -1,4 +1,4 @@
-<ng-container *ngIf="courses$ | async; let courses; else noData">
+<ng-container *ngIf="data$ | async; let data; else noData">
   <mat-sidenav-container class="main" [hasBackdrop]="true">
 
     <mat-sidenav #sidenav mode="over" position="end" fixedInViewport="true" class="main__sidenav">
@@ -9,9 +9,10 @@
       <app-header class="main__header" [view]="selectedView" (viewChange)="onViewChanged($event)"></app-header>
 
       <container-element [ngSwitch]="selectedView">
-        <app-track *ngSwitchCase="view.TRACK" (courseSelect)="onCourseSelected($event)" [courses]="courses"></app-track>
-        <app-courses *ngSwitchCase="view.COURSES" class="main__courses" [courses]="courses"
-          (courseSelect)="onCourseSelected($event)"></app-courses>
+        <app-track *ngSwitchCase="view.TRACK" (courseSelect)="onCourseSelected($event)" [courses]="data.courses"
+          [track]="data.track"></app-track>
+        <app-courses *ngSwitchCase="view.COURSES" [courses]="data.courses" (courseSelect)="onCourseSelected($event)">
+        </app-courses>
       </container-element>
 
     </mat-sidenav-content>

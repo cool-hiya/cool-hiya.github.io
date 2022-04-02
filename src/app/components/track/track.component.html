@@ -1,45 +1,15 @@
-<ngx-graph
-  [draggingEnabled]="false"
-  [autoZoom]="true"
-  [autoCenter]="true"
-  [showMiniMap]="true"
-  [miniMapMaxWidth]="150"
-  [miniMapMaxHeight]="150"
-  [links]="[
-    {
-      id: 'a',
-      source: 'first',
-    target: 'second',
-      label: 'is parent of'
-    }, {
-      id: 'b',
-      source: 'first',
-      target: 'third',
-      label: 'custom label'
-    }
-  ]"
-  [nodes]="[
-    {
-      id: 'first',
-      label: 'A'
-    }, {
-      id: 'second',
-      label: 'B'
-    }, {
-      id: 'third',
-      label: 'C'
-    }
-  ]"
->
-
-
-<ng-template #nodeTemplate let-node>
-  <svg:g class="node" xmlns="http://www.w3.org/2000/xhtml" width="180" height="180">
-    <svg:foreignObject width="180" height="180">
-      <xhtml:div xmlns="http://www.w3.org/1999/xhtml" class="test">
-        <app-course-card [course]="courses[0]"></app-course-card>
-      </xhtml:div>
-    </svg:foreignObject>
-  </svg:g>
-</ng-template>
-</ngx-graph>
+<div class="track">
+  <ngx-graph [draggingEnabled]="false" [links]="track" [nodes]="nodes" [autoZoom]="true" [autoCenter]="true">
+    <ng-template #nodeTemplate let-node>
+      <svg:g xmlns="http://www.w3.org/2000/xhtml" width="180" height="180">
+        <svg:foreignObject width="180" height="180">
+          <xhtml:div xmlns="http://www.w3.org/1999/xhtml" class="track__node">
+            <ng-container *ngIf="getCourseById(node.id); let course">
+              <app-course-card [course]="course" (click)="onSelected(course)"></app-course-card>
+            </ng-container>
+          </xhtml:div>
+        </svg:foreignObject>
+      </svg:g>
+    </ng-template>
+  </ngx-graph>
+</div>
