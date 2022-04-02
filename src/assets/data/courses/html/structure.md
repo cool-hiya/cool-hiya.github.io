@@ -10,3 +10,5 @@
 6. Browser support
 
 ## Sources:
+
+1. [HTML Academy: Doctype](https://htmlacademy.ru/blog/boost/frontend/doctype)

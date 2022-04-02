@@ -12,3 +12,5 @@
 
 
 ## Sources:
+
+1. [HTML Academy: Naming rules](https://htmlacademy.ru/blog/boost/frontend/variables)

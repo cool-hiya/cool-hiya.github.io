@@ -9,3 +9,6 @@
 
 
 ## Sources:
+
+1. [HTML Academy: Links](https://htmlacademy.ru/blog/boost/frontend/links)
+2. [MDN base](https://developer.mozilla.org/ru/docs/Web/HTML/Element/base)
