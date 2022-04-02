@@ -2,6 +2,6 @@
 
 .courses {
   &__list {
-    margin-left: $filters-width;
+    margin-left: calc(#{$filters-width} + #{$base-offset} / 2);
   }
 }
