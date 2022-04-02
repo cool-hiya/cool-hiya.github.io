@@ -1,6 +1,6 @@
 <div class="switcher">
   <button *ngFor="let view of views" class="switcher__button" [class.switcher__button--active]="view === selectedView"
-    type="button" (click)="onViewChanged(view)">
+    type="button" (click)="onViewChange(view)">
     {{view}}
   </button>
 </div>

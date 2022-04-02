@@ -5,7 +5,7 @@
         <svg:foreignObject width="180" height="180">
           <xhtml:div xmlns="http://www.w3.org/1999/xhtml" class="track__node">
             <ng-container *ngIf="getCourseById(node.id); let course">
-              <app-course-card [course]="course" (click)="onSelected(course)"></app-course-card>
+              <app-course-card [course]="course" (click)="onSelect(course)"></app-course-card>
             </ng-container>
           </xhtml:div>
         </svg:foreignObject>

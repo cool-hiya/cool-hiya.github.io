@@ -6,12 +6,12 @@
     </mat-sidenav>
 
     <mat-sidenav-content class="main__content">
-      <app-header class="main__header" [view]="selectedView" (viewChange)="onViewChanged($event)"></app-header>
+      <app-header class="main__header" [view]="selectedView" (viewChange)="onViewChange($event)"></app-header>
 
       <container-element [ngSwitch]="selectedView">
-        <app-track *ngSwitchCase="view.TRACK" (courseSelect)="onCourseSelected($event)" [courses]="data.courses"
+        <app-track *ngSwitchCase="view.TRACK" (courseSelect)="onCourseSelect($event)" [courses]="data.courses"
           [track]="data.track"></app-track>
-        <app-courses *ngSwitchCase="view.COURSES" [courses]="data.courses" (courseSelect)="onCourseSelected($event)">
+        <app-courses *ngSwitchCase="view.COURSES" [courses]="data.courses" (courseSelect)="onCourseSelect($event)">
         </app-courses>
       </container-element>
 

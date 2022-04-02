@@ -12,11 +12,11 @@ export class CoursesComponent {
 
   @Output() courseSelect: EventEmitter<Course> = new EventEmitter();
 
-  onCourseSelected(course: Course) {
+  onCourseSelect(course: Course) {
     this.courseSelect.emit(course);
   }
 
-  onFiltersChanged(filters: Partial<Course>) {
+  onFiltersChange(filters: Partial<Course>) {
     this.filterOptions = filters;
   }
 }

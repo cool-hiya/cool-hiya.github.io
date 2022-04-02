@@ -32,12 +32,12 @@ export class AppComponent {
     this.loadData();
   }
 
-  onCourseSelected(course: Course) {
+  onCourseSelect(course: Course) {
     this.selectCourse(course);
     this.openSideNav();
   }
 
-  onViewChanged(view: View) {
+  onViewChange(view: View) {
     this.selectedView = view;
   }
 

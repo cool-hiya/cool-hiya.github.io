@@ -28,7 +28,7 @@ export class TrackComponent {
     return find(this.courses, {id}) ?? null;
   }
 
-  onSelected(course: Course) {
+  onSelect(course: Course) {
     this.courseSelect.emit(course);
   }
 }

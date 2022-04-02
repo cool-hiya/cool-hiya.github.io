@@ -12,7 +12,7 @@ export class ViewSwitcherComponent {
 
   views: string[] = Object.values(View);
 
-  onViewChanged(view: string) {
+  onViewChange(view: string) {
     this.viewChange.emit(view as View);
   }
 }

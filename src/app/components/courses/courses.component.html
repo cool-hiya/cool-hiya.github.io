@@ -1,7 +1,7 @@
 <div class="courses">
-  <app-courses-filters class="courses__filters" (filtersChange)="onFiltersChanged($event)"></app-courses-filters>
+  <app-courses-filters class="courses__filters" (filtersChange)="onFiltersChange($event)"></app-courses-filters>
 
   <app-courses-list class="courses__list" [courses]="courses | filter: filterOptions"
-    (courseSelect)="onCourseSelected($event)">
+    (courseSelect)="onCourseSelect($event)">
   </app-courses-list>
 </div>

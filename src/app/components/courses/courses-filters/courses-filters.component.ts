@@ -18,7 +18,7 @@ export class CoursesFiltersComponent {
     this.levels = Object.values(Level).map((value) => ({value, label: value}));
   }
 
-  onFilterChanged(value: string, prop: string) {
+  onFilterChange(value: string, prop: string) {
     this.filters = {...this.filters, [prop]: value};
     this.filters = pickBy(this.filters, (v)=> !!v);
 

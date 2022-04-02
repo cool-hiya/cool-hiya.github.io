@@ -10,7 +10,7 @@ export class HeaderComponent {
   @Input() view!: View;
   @Output() viewChange: EventEmitter<View> = new EventEmitter();
 
-  onViewChanged(view: View) {
+  onViewChange(view: View) {
     this.viewChange.emit(view);
   }
 }
