@@ -518,5 +518,13 @@
     "source": "web-fonts.md",
     "sortOrder": 3100,
     "level": "middle"
+  },
+  {
+    "id": "66",
+    "category": "html",
+    "name": "Adaptive images",
+    "source": "adaptive-images.md",
+    "sortOrder": 1550,
+    "level": "middle"
   }
 ]
