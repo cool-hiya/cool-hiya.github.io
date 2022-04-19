@@ -4,7 +4,7 @@
 
 1. Tag picture: for what?
 2. Tag source and attributes: media, type
-3. Attribute srcet for variants of content images
+3. Attribute srcset for variants of content images
 4. How to upload image with different density from Figma?
 5. Webp format: how to use in tag picture and why?
 6. Generate pictures in WebP format (webpack).

@@ -8,11 +8,10 @@
 4. Image formats (svg, jpeg, png, gif)
 5. Raster vs Vector
 
-
-
 ## Sources:
 
 1. [W3 Schools: Images](https://www.w3schools.com/html/html_images.asp)
 2. [HTML Academy: Alt text](https://htmlacademy.ru/blog/boost/frontend/alt-text)
 3. [HTML Academy: Image Formats](https://htmlacademy.ru/blog/boost/frontend/image-formats)
 4. [HTML Academy: Raster vs Vector](https://htmlacademy.ru/blog/boost/frontend/rastr-vector)
+5. [HTML Academy: Images Practice 6-17 lesson](https://htmlacademy.ru/courses/305)
