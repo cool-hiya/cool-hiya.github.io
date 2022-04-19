@@ -6,7 +6,7 @@
 1. Creating component
 2. Creating component with CLI
 3. Component selector
-4, Component styles (styles vs styleUrls)
+4. Component styles (styles vs styleUrls)
 5. Component template (template,  templateUrl)
 6. View encapsulation
 7. Selectors: :host, :host-context
