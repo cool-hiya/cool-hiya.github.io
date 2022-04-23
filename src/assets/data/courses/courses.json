@@ -69,7 +69,7 @@
     "name": "Video & Audio",
     "source": "video-audio.md",
     "sortOrder": 1500,
-    "level": "middle"
+    "level": "junior"
   },
   {
     "id": "10",
@@ -526,5 +526,21 @@
     "source": "adaptive-images.md",
     "sortOrder": 1550,
     "level": "middle"
+  },
+  {
+    "id": "67",
+    "category": "html",
+    "name": "Lists",
+    "source": "lists.md",
+    "sortOrder": 1100,
+    "level": "junior"
+  },
+  {
+    "id": "87",
+    "category": "html",
+    "name": "Semantics",
+    "source": "semantics.md",
+    "sortOrder": 1530,
+    "level": "junior"
   }
 ]

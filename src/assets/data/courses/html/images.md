@@ -15,3 +15,4 @@
 3. [HTML Academy: Image Formats](https://htmlacademy.ru/blog/boost/frontend/image-formats)
 4. [HTML Academy: Raster vs Vector](https://htmlacademy.ru/blog/boost/frontend/rastr-vector)
 5. [HTML Academy: Images Practice 6-17 lesson](https://htmlacademy.ru/courses/305)
+6. [Video: images](https://www.youtube.com/watch?v=u2BtHQwxq7E&list=PLLAZ4kZ9dFpMSXUYwxDFOvyxlssug29Fu&index=9)

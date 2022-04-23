@@ -57,7 +57,7 @@
   {
     "id": "e12",
     "source": "6",
-    "target": "4"
+    "target": "67"
   },
   {
     "id": "e13",
@@ -331,7 +331,17 @@
   },
   {
     "id": "e66",
-    "source": "9",
+    "source": "87",
     "target": "66"
+  },
+  {
+    "id": "e67",
+    "source": "67",
+    "target": "4"
+  },
+  {
+    "id": "e68",
+    "source": "9",
+    "target": "87"
   }
 ]
