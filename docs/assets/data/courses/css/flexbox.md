@@ -19,4 +19,5 @@
 
 1. [Froggy](https://flexboxfroggy.com/)
 2. [Flexbox defense](http://www.flexboxdefense.com/)
+3. [Flexbox adventure](https://codingfantasy.com/games/flexboxadventure)
 

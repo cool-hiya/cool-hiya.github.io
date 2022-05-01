@@ -11,3 +11,8 @@
 7. hover effects
 
 ## Sources:
+
+1. [W3 Schools: Styling table](https://www.w3schools.com/css/css_table.asp)
+2. [MDN: Styling table](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Styling_tables)
+3. [Styled tables examples](https://snipp.ru/html-css/table-style)
+ 

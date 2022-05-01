@@ -12,3 +12,13 @@
 8. Image Sprites
 
 ## Sources:
+
+1. [W3 Schools: Background](https://www.w3schools.com/css/css_background.asp)
+2. [W3 Schools: Background 2](https://www.w3schools.com/css/css3_backgrounds.asp)
+3. [HTML Academy: Background](https://htmlacademy.ru/courses/53)
+4. [Video: Background](https://www.youtube.com/watch?v=5k-x7FUnDuE&list=PLNkWIWHIRwMHUawuIEpPI_tOG7Mfhs_sA&index=15)
+5. [W3 Schools: Sprites](https://www.w3schools.com/css/css_image_sprites.asp)
+
+## Games:
+
+1. [Background playground](https://css-playground.com/view/35/css-backgrounds-in-depth)

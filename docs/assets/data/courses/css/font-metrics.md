@@ -17,3 +17,12 @@
 13. web fonts
 
 ## Sources:
+
+1. [W3 Schools: Text course](https://www.w3schools.com/css/css_text.asp)
+2. [W3 Schools: Fonts course](https://www.w3schools.com/css/css_font.asp)
+3. [HTML Academy: Text decoration](https://htmlacademy.ru/courses/309)
+4. [Video: Text & Fonts](https://www.youtube.com/watch?v=TAB8pVUKiI4)
+
+## Games: 
+
+1. [Fonts playground](https://fontstorage.com/polygon/)
