@@ -14,6 +14,11 @@
 
 ## Sources:
 
+1. [W3 Schools: Flexbox (4 articles)](https://www.w3schools.com/css/css3_flexbox.asp)
+2. [MDN: Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+3. [HTML Academy: Practice part 1](https://htmlacademy.ru/courses/96)
+4. [HTML Academy: Practice part 2](https://htmlacademy.ru/courses/113)
+5. [Video: Flexbox](https://www.youtube.com/watch?v=XXlw7TUxRVY)
 
 ## Games:
 

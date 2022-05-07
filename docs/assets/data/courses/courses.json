@@ -506,8 +506,8 @@
   {
     "id": "64",
     "category": "start-kit",
-    "name": "Intro to web development",
-    "source": "intro-to-development.md",
+    "name": "Web overview",
+    "source": "web-overview.md",
     "sortOrder": 200,
     "level": "junior"
   },
