@@ -12,4 +12,5 @@ export enum Category {
   WEBPACK = 'webpack',
   ANGULAR = 'angular',
   DEV_TOOLS = 'dev-tools',
+  RESPONSIVE_DESIGN = 'responsive-design'
 }
