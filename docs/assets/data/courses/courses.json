@@ -178,8 +178,8 @@
   {
     "id": "23",
     "category": "css",
-    "name": "Transitions",
-    "source": "transitions.md",
+    "name": "2D & 3D Transforms",
+    "source": "transforms.md",
     "sortOrder": 4000,
     "level": "middle"
   },
@@ -201,7 +201,7 @@
   },
   {
     "id": "26",
-    "category": "css",
+    "category": "responsive-design",
     "name": "Adaptive \n&\n Responsive layout",
     "source": "adaptive-layout.md",
     "sortOrder": 3200,
@@ -521,8 +521,8 @@
   },
   {
     "id": "66",
-    "category": "html",
-    "name": "Adaptive images",
+    "category": "responsive-design",
+    "name": "Adaptive \n images",
     "source": "adaptive-images.md",
     "sortOrder": 1550,
     "level": "middle"
@@ -542,5 +542,13 @@
     "source": "semantics.md",
     "sortOrder": 1530,
     "level": "junior"
+  },
+  {
+    "id": "88",
+    "category": "css",
+    "name": "Transitions",
+    "source": "transitions.md",
+    "sortOrder": 4050,
+    "level": "middle"
   }
 ]

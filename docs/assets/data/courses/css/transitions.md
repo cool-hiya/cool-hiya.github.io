@@ -1,16 +1,13 @@
-# Transformations & Transitions
+# Transitions
 
 ## Topics:
 
-1.  transition, transition duration, transition property
+1. transition, transition duration, transition property
 2. transition delay
 3. transition timing function
-4. transform translate (X, Y, combined)
-5. transform scale
-6. transform rotate
-7. transform skew (X, Y, combined)
-8. transform-origin
-9. multiple transformations
-
 
 ## Sources:
+
+1. [W3 Schools: Transitions](https://www.w3schools.com/css/css3_transitions.asp)
+2. [HTMl Academy: Transitions Practice](https://htmlacademy.ru/courses/84)
+3. [Transitions interactive guide](https://www.joshwcomeau.com/animation/css-transitions/)
