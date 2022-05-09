@@ -11,3 +11,6 @@
 ## Sources:
 
 1. [HTML Academy: Why BEM?](https://htmlacademy.ru/blog/boost/frontend/short-5)
+2. [BEM overview (All tabs)](http://getbem.com/introduction/)
+3. [Habr: BEM step by step](https://habr.com/ru/post/203440/)
+
